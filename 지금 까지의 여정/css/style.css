@@ -1,0 +1,38 @@
+@charset "utf-8";
+*{margin: 0 auto; padding: 0; list-style: none; font-weight: "맑은고딕";color: #ffffff;}
+html, body{width: 100%; height: 100%; margin: 0; padding: 0;background-color: black; background-image: url(/img/배경.gif); background-size: cover;}
+a{text-decoration: none; display: block;}
+header{width: 100%; height: 100px;}
+header:hover{background-color: rgba(247, 247, 247, 0.342);}
+.wrop{width: 1800px;}
+.logo{width: 250px; height: 100px; float: left;}
+.menu{width: 1500px; height: 100px; float: left; z-index: 1;}
+.navi{margin-top: 50px; margin-left: 0px; float: left;}
+.navi>li{float: right;}
+.navi>li>a{width: 210px; height: 50px; text-align: center; font-weight: bold;}
+.navi>li>a:hover{color: #000000;}
+.submenu{width: 200px; height: 170px; border: solid 2px #ffffff; z-index: 1; position: relative; display: none;}
+.submenu>li>a{width: 200px; height: 40px; text-align: center; font-weight: 400;}
+.submenu>li>a:hover{font-weight: bold;}
+.navi2{margin-top: 30px; float: right; margin-right: -83px;}
+.navi2>li{float: left;}
+.navi2>li>a{width: 400px; height: 50px; text-align: center; font-weight: bold;}
+.navi2>li>a:hover{font-weight: bold; color: #ffffff;}
+.submenu2{width: 400px; height: 830px; border: solid 2px #ffffff; margin-right: -80x; display: none;}
+.submenu2>li>a{width: 300px; height: 40px; line-height: 40px; border: solid 1px #ffffff; font-weight: bold; text-align: center; float: left; border-radius: 20%; margin-left: 50px; margin-top: 20px;}
+.submenu2>li>a:hover{font-weight: bold; background-color: rgba(255, 254, 254, 0.5);}
+.copy1{width: 300px; height: 100px; font-weight: bold; text-align: center;} 
+.copy2{width: 300px; height: 100px; font-weight: bold; text-align: center; text-align: center; margin-top: 250px;}
+.text{margin-top: 250px; width: 350px; height: 200px; border: solid 1px #ffffff; border-radius: 10%;}
+.text>h4{text-align: center; tab-size: 20px; font-weight: bold;}
+.text>p{margin-top: 10px;}
+.submenu2>audio{width: 50px; height: 50px;}
+.bodywrop{margin-left:400px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; width: 1200px; height: 300px;}
+.imgslide{ width:1200px; height:300px; position:relative;}
+.imgslide>a{display:block; position:absolute;}
+.navi3{float: left;}
+.navi3>li>a{margin-top: 400px; float: left;}
+.navi3>li>span{margin-right: 100px;  float: right;}
+.submenu3{display: none;}
+
+
