@@ -8,6 +8,6 @@ This is a website that contains the journey of IT that has been traveled so far.
 
 ### Background music / 배경 음악
  The Guardian of the Stars :MaypleStory
- Link: https://youtu.be/-tUBNzA5WYo
+ <br>Link: https://youtu.be/-tUBNzA5WYo
 # execution result / 실행 결과
 ![image](https://github.com/edaild/THE-JOURNEY-AHEAD/assets/109999749/10b14646-0db7-450c-b3d3-0f76d53992c3)
