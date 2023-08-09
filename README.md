@@ -5,7 +5,7 @@ This is a website that contains the journey of IT that has been traveled so far.
 <p> In this portfolio, the background music does not play automatically in the Chrome environment / 본 포트폴리오는 Chrome 환경에서는 배경음악이 자동 재생되지 않습니다.</p>
 <P> When executing, please run index.html first / 실행 시 index·html을 가장 먼저 실행해 주세요.</P>
 <p> When running, please run the code with Visual Studio Code and then with Open With Live Server. / 실행 시 Visual Studio Code로 코드 실행 후 Open With Live Server로 실행해 주세요.</p>
-<p> 배경 이미지 작동 방법은 style.css 에서 background-image: url(/img/배경.gif);을 찾아을 복사해 붙여 주시기를 바랍니다..</P>
+<p> 배경 이미지 작동 방법은 style.css 에서 background-image: url(/img/배경.gif); 를 찾아  및에 코드를 복사해 붙여 주시기를 바랍니다..</P>
 
 ```
 url(/지금\ 까지의\ 여정/img/배경.gif);
