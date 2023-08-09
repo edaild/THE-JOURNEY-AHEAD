@@ -11,8 +11,13 @@ This is a website that contains the journey of IT that has been traveled so far.
  The Guardian of the Stars :MaypleStory<br>
  Link: https://youtu.be/-tUBNzA5WYo
 # execution result / 실행 결과
+
+## Main
 ![image](https://github.com/edaild/THE-JOURNEY-AHEAD/assets/109999749/10b14646-0db7-450c-b3d3-0f76d53992c3)
+## Menu
 ![image](https://github.com/edaild/THE-JOURNEY-AHEAD/assets/109999749/fd27998b-4740-4807-a452-2ff44a3f8ea0)
+
+## submenu+footer
 ![image](https://github.com/edaild/THE-JOURNEY-AHEAD/assets/109999749/a3fe1ca5-1965-4b1f-b6e9-76f36fc199e5)
 
 
