@@ -8,7 +8,7 @@ This is a website that contains the journey of IT that has been traveled so far.
 <p>The way background image works is background-image: url(/img/배경.gif); in style.css . Please find and copy and paste the code to / 배경 이미지 작동 방법은 style.css 에서 background-image: url(/img/배경.gif); 를 찾아  및에 코드를 복사해 붙여 주시기를 바랍니다..</P>
 
 ```
-url(./지금\ 까지의\ 여정/img/배경.gif);
+url(/지금\ 까지의\ 여정/img/배경.gif);
 ```
 
 ### Background music / 배경 음악
