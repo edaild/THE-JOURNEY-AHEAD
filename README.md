@@ -1,5 +1,5 @@
 # THE-JOURNEY-AHEAD
-This is a website that contains the journey of IT that has been traveled so far. This website will continue to be uploaded in the future. Until reaching the end of the journey / 지금까지 여행했던 IT의 여정을 담은 웹사이트이다. 이 웹사이트는 앞으로 계속 업로드될 예정이다. 여정 종착점의 도착 할 때까지
+This is a website that contains the journey of IT that has been traveled so far. / 지금까지 여행했던 IT의 여정을 담은 웹사이트이다. 
 
 <h3>caution / 주의 사항</h3>
 <p> In this portfolio, the background music does not play automatically in the Chrome environment / 본 포트폴리오는 Chrome 환경에서는 배경음악이 자동 재생되지 않습니다.</p>
